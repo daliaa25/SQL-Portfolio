@@ -9,9 +9,9 @@ The project is split into two parts: Data Cleaning and Exploratory Data Analysis
 
 | File | Description |
 |------|-------------|
-| `layoffs_data_cleaning.sql` | Cleans the raw layoffs dataset |
-| `layoffs_eda.sql` | Explores and analyzes the cleaned dataset |
-| `layoffs_raw.csv` | Raw dataset used in this project |
+| `layoffs_Data_Cleaning.sql` | Cleans the raw layoffs dataset |
+| `Layoffs_EDA.sql` | Explores and analyzes the cleaned dataset |
+| `Layoffs_raw.csv` | Raw dataset used in this project |
 
 ---
 
@@ -67,7 +67,7 @@ The project is split into two parts: Data Cleaning and Exploratory Data Analysis
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **MySQL**
 
