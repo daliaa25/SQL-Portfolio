@@ -9,9 +9,9 @@ The project is split into two parts: Data Cleaning and Exploratory Data Analysis
 
 | File | Description |
 |------|-------------|
-| `retail_orders_cleaning.sql` | Cleans the raw retail orders dataset |
-| `retail_orders_eda.sql` | Explores and analyzes the cleaned dataset |
-| `retail_orders_raw.csv` | Raw dataset used in this project |
+| `Retail_Orders_Data_Cleaning.sql` | Cleans the raw retail orders dataset |
+| `Retail_Orders_EDA.sql` | Explores and analyzes the cleaned dataset |
+| `Retail_Orders_Raw.csv` | Raw dataset used in this project |
 
 ---
 
