@@ -8,7 +8,7 @@ The project is split into two parts: Data Cleaning and Exploratory Data Analysis
 
 |          File               |             Description                   |
 |-----------------------------|-------------------------------------------|
-| `Layoffs_data_cleaning.sql` | Cleans the raw layoffs dataset            |
+| `Layoffs_Data_Cleaning.sql` | Cleans the raw layoffs dataset            |
 | `Layoffs_EDA.sql`           | Explores and analyzes the cleaned dataset |
 | `Layoffs_raw.csv`           | Raw dataset used in this project          |
 
